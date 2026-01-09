@@ -1,0 +1,8 @@
+drug1,drug2,interaction
+Metformin,Insulin,Risk of hypoglycemia
+Amlodipine,Losartan,May cause low blood pressure
+Ibuprofen,Aspirin,Increased risk of stomach bleeding
+Omeprazole,Pantoprazole,Therapeutic duplication – avoid concurrent use
+Rifampicin,Isoniazid,Monitor liver function closely
+Prednisolone,Ibuprofen,Increased risk of gastrointestinal bleeding
+Atorvastatin,Rifampicin,Reduced statin effectiveness
