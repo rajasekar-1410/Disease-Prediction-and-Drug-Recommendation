@@ -6,3 +6,52 @@ Omeprazole,Pantoprazole,Therapeutic duplication – avoid concurrent use
 Rifampicin,Isoniazid,Monitor liver function closely
 Prednisolone,Ibuprofen,Increased risk of gastrointestinal bleeding
 Atorvastatin,Rifampicin,Reduced statin effectiveness
+Paracetamol,Ibuprofen,Generally safe together but excessive use may increase liver or kidney stress
+Paracetamol,Aspirin,Increased risk of gastrointestinal irritation
+Paracetamol,Alcohol,Increased risk of liver toxicity with chronic combined use
+Ibuprofen,Warfarin,Increased risk of bleeding
+Aspirin,Warfarin,High risk of bleeding due to additive anticoagulant effects
+Aspirin,Clopidogrel,Increased bleeding risk; monitoring required
+Warfarin,Metronidazole,Metronidazole may increase Warfarin levels and bleeding risk
+Warfarin,Amoxicillin,May alter gut flora and increase bleeding risk
+Warfarin,Fluconazole,Fluconazole increases Warfarin concentration leading to bleeding
+Metformin,Alcohol,Risk of lactic acidosis increases
+Metformin,Cimetidine,Cimetidine may increase Metformin concentration
+Insulin,Glimepiride,Additive hypoglycemic effect may cause low blood sugar
+Glimepiride,Alcohol,Alcohol may potentiate hypoglycemic effects
+Amlodipine,Simvastatin,Increased Simvastatin levels may cause muscle toxicity
+Amlodipine,Atenolol,Additive blood pressure lowering may cause hypotension
+Atenolol,Insulin,Beta blockers may mask symptoms of hypoglycemia
+Losartan,Potassium supplements,Increased risk of hyperkalemia
+Enalapril,Potassium supplements,Risk of elevated potassium levels
+Enalapril,Ibuprofen,Reduced antihypertensive effect and kidney risk
+Omeprazole,Clopidogrel,Omeprazole may reduce activation of Clopidogrel
+Omeprazole,Diazepam,Increased Diazepam levels due to reduced metabolism
+Pantoprazole,Warfarin,May slightly increase bleeding risk
+Ranitidine,Metformin,Ranitidine may increase Metformin levels
+Diazepam,Alcohol,Severe sedation and respiratory depression risk
+Alprazolam,Alcohol,Increased CNS depression and impaired coordination
+Fluoxetine,Tramadol,Increased risk of serotonin syndrome
+Fluoxetine,Diazepam,Increased Diazepam levels causing sedation
+Sertraline,Warfarin,May increase bleeding tendency
+Sertraline,Tramadol,Risk of serotonin syndrome
+Tramadol,Alcohol,Enhanced CNS depression and respiratory risk
+Prednisolone,Aspirin,Increased ulcer and bleeding risk
+Levothyroxine,Calcium supplements,Reduced absorption of Levothyroxine
+Levothyroxine,Iron supplements,Reduced effectiveness of Levothyroxine
+Ciprofloxacin,Theophylline,Increased Theophylline toxicity risk
+Ciprofloxacin,Warfarin,Enhanced anticoagulant effect
+Azithromycin,Warfarin,May increase bleeding risk
+Azithromycin,Digoxin,May increase Digoxin levels
+Amoxicillin,Methotrexate,Reduced Methotrexate elimination increases toxicity
+Methotrexate,Ibuprofen,Increased Methotrexate toxicity risk
+Diclofenac,Warfarin,Increased bleeding risk
+Diclofenac,Prednisolone,Higher gastrointestinal bleeding risk
+Clopidogrel,Omeprazole,Reduced antiplatelet effectiveness
+Digoxin,Verapamil,Increased Digoxin levels and toxicity
+Digoxin,Amiodarone,Significant increase in Digoxin concentration
+Amiodarone,Warfarin,Marked increase in anticoagulant effect
+Amiodarone,Simvastatin,Increased risk of muscle toxicity
+Simvastatin,Clarithromycin,High risk of muscle injury due to increased statin levels
+Clarithromycin,Warfarin,Increased bleeding risk
+Theophylline,Fluoroquinolones,Reduced clearance increases toxicity
