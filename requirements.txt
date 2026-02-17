@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy 
 pandas
 scikit-learn
 joblib
